@@ -1,0 +1,35 @@
+#
+#	Test
+#
+
+Scene {
+	Name	{ Bonjour }
+	Render	{ 400 400 }
+	Camera	{	Origin { 20.0 0.0 0.0 }
+		}
+	Object	{	Name { Sphere }
+			Inter	{	Origin { 0.0 0.0 -5.0 }
+						Sphere { 4.0 }
+				}
+			Color { 0x00 0x00 0xFF }
+		}
+	Object	{	Name { Sphere }
+			Inter { Origin { 0.0 0.0 5.0 }
+				Sphere { 4.0 }
+				}
+			Color { 0x00 0xFF 0x00 }
+		}
+	Object	{	Name { Plane }
+			Inter	{	Plane { }
+					Origin { 0.0 -4.0 0.0 }
+				}
+			Color { 0xFF 0x00 0x00 }
+		}
+
+	Light	{	Origin	{ 0.0 0.0 0.0 }
+		}
+	Light	{	Origin	{ -20.0 15.0 10.0 }
+		}
+	Light	{	Origin	{ -20.0 15.0 -10.0 }
+		}
+}
