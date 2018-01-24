@@ -15,11 +15,13 @@ Enfin, voici les bonus qui peuvent être implémenter dans le programme :
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
 
-#### Systeme d'exploitation
+**Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
+
+#### Système d'exploitation
 
 ```
 macOS Sierra
@@ -67,7 +69,7 @@ make re
 
 ## Faire des tests
 
-Une fois que le programme a été crée, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + le fichier 
+Une fois que le programme a été créé, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + le fichier 
 de description de scène.
 
 ### Utilisation du programme
@@ -80,7 +82,7 @@ Ligne de commande
 
 ### Commandes
 
-Utiliser la deuxième fenètre ouverte simultanément avec la fenètre de rendu de la scène pour intéragir avec cette dernière.
+Utiliser la deuxième fenêtre ouverte simultanément avec la fenêtre de rendu de la scène pour interagir avec cette dernière.
 
 #### Exemple
 ![alt text](https://raw.githubusercontent.com/konamifox/photo/master/RTv1_1.jpeg?token=AT6ePGzIO0oJxvL3CMS76u6BBPgmAmITks5acek8wA%3D%3D)
