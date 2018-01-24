@@ -3,8 +3,8 @@
 Troisième projet de la branche graphique en parallèle de wolf3d de l'école 42. Créer un programme qui utilise la méthode du 
 raytracing.
 
-Pour ce projet, quelques notions de base sont demandés et obligatoires :
-* Gérer 4 formes géométrique basiques (sphère, plan, cône, cylindre)
+Pour ce projet, quelques notions de base sont demandées et obligatoires :
+* Gérer 4 formes géométriques basiques (sphère, plan, cône, cylindre)
 * Gérer les translations et rotations
 * Gérer le positionnement et la direction de la caméra
 * Gérer la lumière (1 spot lumineux minimum) et les effets qu'elle implique (luminosité et ombre)
@@ -42,11 +42,13 @@ Se placer dans le dossier dans lequel vous avez fait la copie des fichiers sourc
 ```
 make
 ```
+
 Plusieurs fichiers .o auront fait leur apparitions dans le dossier que vous avez cloné ainsi que le binaire
 
 ```
 rtv1
 ```
+
 ### Suppression
 
 Pour supprimer les fichiers objets .o généré lors de la création du programme
