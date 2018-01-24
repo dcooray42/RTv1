@@ -98,6 +98,9 @@ Utiliser la deuxième fenêtre ouverte simultanément avec la fenêtre de rendu 
 ## Licence
 * Minilibx - License BSD: Copyright Olivier Crouzet - 2014
 
+## Note
+125/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
