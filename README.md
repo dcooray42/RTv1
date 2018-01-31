@@ -87,10 +87,10 @@ Ligne de commande
 Utiliser la deuxième fenêtre ouverte simultanément avec la fenêtre de rendu de la scène pour interagir avec cette dernière.
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/RTv1_1.jpeg?token=AT6ePGzIO0oJxvL3CMS76u6BBPgmAmITks5acek8wA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/RTv1_2.jpeg?token=AT6ePP-MANreNtMJSJU2CjtGuAd68f0pks5acelBwA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/RTv1_3.jpeg?token=AT6ePP5O0KiIMaqiaxz_hirFCRnecwvsks5acelLwA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/RTv1_4.jpeg?token=AT6ePH_PF_xH2xLLEbL19faS6d5n-y7Hks5acelQwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_1.jpeg)
+![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_2.jpeg)
+![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_3.jpeg)
+![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_4.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
