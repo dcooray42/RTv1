@@ -32,7 +32,7 @@ macOS Sierra
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
-git clone https://github.com/konamifox/RTv1.git [nom du PATH/dossier]
+git clone https://github.com/dcooray42/RTv1.git [nom du PATH/dossier]
 ```
 
 ### Installation
@@ -87,10 +87,10 @@ Ligne de commande
 Utiliser la deuxième fenêtre ouverte simultanément avec la fenêtre de rendu de la scène pour interagir avec cette dernière.
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_1.jpeg)
-![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_2.jpeg)
-![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_3.jpeg)
-![alt text](https://raw.githubusercontent.com/konamifox/RTv1/master/photo/RTv1_4.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/RTv1/master/photo/RTv1_1.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/RTv1/master/photo/RTv1_2.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/RTv1/master/photo/RTv1_3.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/RTv1/master/photo/RTv1_4.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
@@ -103,4 +103,4 @@ Utiliser la deuxième fenêtre ouverte simultanément avec la fenêtre de rendu 
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
